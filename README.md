@@ -1,4 +1,4 @@
- # Welcome!, I'm Flavio
+ # Welcome! I'm Flavio
 
 💻 I'm Back-End Developer!
 <br>
